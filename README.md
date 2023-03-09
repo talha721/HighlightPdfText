@@ -1,6 +1,7 @@
 # HIGHLIGHT PDF TEXT USING REACT-PDF
 
-Display Highlights in PDFs in your React app as easily as if they were images.
+You can easily show highlights in the PDF file using react-pdf package.
+
 **_Source_** https://github.com/wojtekmaj/react-pdf/wiki/Recipes#highlight-text-on-the-page
 
 # GETTING STARTED
